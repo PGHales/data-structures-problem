@@ -1,5 +1,5 @@
 //don't worry about code below this line
-var fake_names = ['Abby', 'Chance', 'Sadie', 'Emmy', 'Brenda', 'Lewis', 'Cohen', 'Lily', 'Tanner', 'Lora', 'Kim', 'George', 'Joe', 'Dorothy', 'Clark', 'Freddie', 'Tom'];
+var fake_names = ['Geoff', 'Holly', 'Savannah', 'Preston', 'Rheannan', 'Camden', 'Larsen', 'Breonnon', 'Lily', 'Theif', 'Sheesh shee', 'Diamond', 'Dakota', 'Pikachu', 'Piplup', 'Chimchar', 'Turtwig'];
 function randName() {
      return fake_names[Math.round(Math.random()*(fake_names.length-1))];
 }
